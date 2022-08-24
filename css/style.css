@@ -1,6 +1,18 @@
+nav {
+  display: flexbox;
+  align-items: center;
+  justify-content: space-around;
+  background-color: gray;
+}
 
+ul {
+  
+}
 
-
+section {
+  display: flexbox;
+  align-items: center;
+  }
 
 
 
