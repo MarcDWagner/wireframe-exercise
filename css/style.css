@@ -2,6 +2,7 @@ nav {
   vertical-align: top;
   background-color: gray;
   border: thin solid red;
+
 }
 
 nav img {
@@ -9,13 +10,14 @@ nav img {
   margin-top: 10px;
   margin-left: 50px;
   border: thin solid black;
+  vertical-align: top;
 }
 
 nav ul {
   position: relative;
   text-align: center;
   padding: 0;
-  width: 70%;
+  width: 60%;
   padding: 20px;
   border: thin solid black;
 }
@@ -23,8 +25,7 @@ nav ul {
 nav li {
   display: inline-block;
   border: thin solid blue;
-  margin-left: 30px;
-  margin-right: 30px;
+  width: 15%;
   
 }
 
@@ -54,4 +55,9 @@ div p {
 footer {
   border: thin solid black;
   background-color: lightslategray;
+  
+}
+
+a:hover {
+  color: red;
 }
