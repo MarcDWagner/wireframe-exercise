@@ -20,6 +20,10 @@ nav ul {
   width: 60%;
   padding: 20px;
   border: thin solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
 }
 
 nav li {
@@ -55,9 +59,6 @@ div p {
 footer {
   border: thin solid black;
   background-color: lightslategray;
-  
 }
 
-a:hover {
-  color: red;
-}
+
